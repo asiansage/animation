@@ -1,3 +1,4 @@
+# Creates an infinte pong game between two immobile paddles
 import os
 from time import sleep
 
